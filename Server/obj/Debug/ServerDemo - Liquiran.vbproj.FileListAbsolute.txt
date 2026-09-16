@@ -1,0 +1,61 @@
+D:\PD\ServerDemo - Liquiran\bin\Debug\ServerDemo - Liquiran.exe.config
+D:\PD\ServerDemo - Liquiran\bin\Debug\ServerDemo - Liquiran.exe
+D:\PD\ServerDemo - Liquiran\bin\Debug\ServerDemo - Liquiran.pdb
+D:\PD\ServerDemo - Liquiran\bin\Debug\ServerDemo - Liquiran.xml
+D:\PD\ServerDemo - Liquiran\obj\Debug\ServerDemo - Liquiran.vbproj.AssemblyReference.cache
+D:\PD\ServerDemo - Liquiran\obj\Debug\ServerDemo___Liquiran.Form1.resources
+D:\PD\ServerDemo - Liquiran\obj\Debug\ServerDemo___Liquiran.MDIParent1.resources
+D:\PD\ServerDemo - Liquiran\obj\Debug\ServerDemo___Liquiran.Resources.resources
+D:\PD\ServerDemo - Liquiran\obj\Debug\ServerDemo - Liquiran.vbproj.GenerateResource.cache
+D:\PD\ServerDemo - Liquiran\obj\Debug\ServerDemo - Liquiran.vbproj.CoreCompileInputs.cache
+D:\PD\ServerDemo - Liquiran\obj\Debug\ServerDemo - Liquiran.exe
+D:\PD\ServerDemo - Liquiran\obj\Debug\ServerDemo - Liquiran.xml
+D:\PD\ServerDemo - Liquiran\obj\Debug\ServerDemo - Liquiran.pdb
+D:\PD\ServerDemo - Liquiran\obj\Debug\ServerDemo___Liquiran.customInput.resources
+C:\Users\asdf\Desktop\alcantara\ServerDemo - Alcantara\bin\Debug\ServerDemo - Liquiran.exe.config
+C:\Users\asdf\Desktop\alcantara\ServerDemo - Alcantara\bin\Debug\ServerDemo - Liquiran.exe
+C:\Users\asdf\Desktop\alcantara\ServerDemo - Alcantara\bin\Debug\ServerDemo - Liquiran.pdb
+C:\Users\asdf\Desktop\alcantara\ServerDemo - Alcantara\bin\Debug\ServerDemo - Liquiran.xml
+C:\Users\asdf\Desktop\alcantara\ServerDemo - Alcantara\obj\Debug\ServerDemo - Liquiran.vbproj.AssemblyReference.cache
+C:\Users\asdf\Desktop\alcantara\ServerDemo - Alcantara\obj\Debug\ServerDemo___Liquiran.customInput.resources
+C:\Users\asdf\Desktop\alcantara\ServerDemo - Alcantara\obj\Debug\ServerDemo___Liquiran.Form1.resources
+C:\Users\asdf\Desktop\alcantara\ServerDemo - Alcantara\obj\Debug\ServerDemo___Liquiran.MDIParent1.resources
+C:\Users\asdf\Desktop\alcantara\ServerDemo - Alcantara\obj\Debug\ServerDemo___Liquiran.Resources.resources
+C:\Users\asdf\Desktop\alcantara\ServerDemo - Alcantara\obj\Debug\ServerDemo - Liquiran.vbproj.GenerateResource.cache
+C:\Users\asdf\Desktop\alcantara\ServerDemo - Alcantara\obj\Debug\ServerDemo - Liquiran.vbproj.CoreCompileInputs.cache
+C:\Users\asdf\Desktop\alcantara\ServerDemo - Alcantara\obj\Debug\ServerDemo - Liquiran.exe
+C:\Users\asdf\Desktop\alcantara\ServerDemo - Alcantara\obj\Debug\ServerDemo - Liquiran.xml
+C:\Users\asdf\Desktop\alcantara\ServerDemo - Alcantara\obj\Debug\ServerDemo - Liquiran.pdb
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\bin\Debug\ServerDemo - Liquiran.exe.config
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\bin\Debug\ServerDemo - Liquiran.exe
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\bin\Debug\ServerDemo - Liquiran.pdb
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\bin\Debug\ServerDemo - Liquiran.xml
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo - Liquiran.vbproj.AssemblyReference.cache
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo___Liquiran.customInput.resources
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo___Liquiran.Form1.resources
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo___Liquiran.MDIParent1.resources
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo___Liquiran.Resources.resources
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo - Liquiran.vbproj.GenerateResource.cache
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo - Liquiran.vbproj.CoreCompileInputs.cache
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo - Liquiran.exe
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo - Liquiran.xml
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo - Liquiran.pdb
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\bin\Debug\ServerDemo - Liquiran.exe.config
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\bin\Debug\ServerDemo - Liquiran.exe
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\bin\Debug\ServerDemo - Liquiran.pdb
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\bin\Debug\ServerDemo - Liquiran.xml
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo - Liquiran.vbproj.AssemblyReference.cache
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo___Liquiran.customInput.resources
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo___Liquiran.Form1.resources
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo___Liquiran.MDIParent1.resources
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo___Liquiran.Resources.resources
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo - Liquiran.vbproj.GenerateResource.cache
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo - Liquiran.vbproj.CoreCompileInputs.cache
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo - Liquiran.exe
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo - Liquiran.xml
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo - Liquiran.pdb
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo___Liquiran.About.resources
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo___Liquiran.welcome.resources
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo___Liquiran.ScreenShare.resources
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo___Liquiran.ControlPC.resources
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ServerDemo - Alcantara\obj\Debug\ServerDemo___Liquiran.BroadcastServer.resources
