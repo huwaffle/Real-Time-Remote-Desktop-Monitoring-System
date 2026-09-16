@@ -1,0 +1,101 @@
+C:\Users\lab608\Documents\pasion Parallel\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.exe
+C:\Users\lab608\Documents\pasion Parallel\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.pdb
+C:\Users\lab608\Documents\pasion Parallel\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.xml
+C:\Users\lab608\Documents\pasion Parallel\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbprojAssemblyReference.cache
+C:\Users\lab608\Documents\pasion Parallel\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.Form1.resources
+C:\Users\lab608\Documents\pasion Parallel\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.Resources.resources
+C:\Users\lab608\Documents\pasion Parallel\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.GenerateResource.cache
+C:\Users\lab608\Documents\pasion Parallel\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.CoreCompileInputs.cache
+C:\Users\lab608\Documents\pasion Parallel\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.exe
+C:\Users\lab608\Documents\pasion Parallel\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.xml
+C:\Users\lab608\Documents\pasion Parallel\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.pdb
+C:\Users\Alex Pasion\Downloads\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.exe
+C:\Users\Alex Pasion\Downloads\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.pdb
+C:\Users\Alex Pasion\Downloads\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.xml
+C:\Users\Alex Pasion\Downloads\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbprojAssemblyReference.cache
+C:\Users\Alex Pasion\Downloads\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.Form1.resources
+C:\Users\Alex Pasion\Downloads\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.Resources.resources
+C:\Users\Alex Pasion\Downloads\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.GenerateResource.cache
+C:\Users\Alex Pasion\Downloads\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.CoreCompileInputs.cache
+C:\Users\Alex Pasion\Downloads\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.exe
+C:\Users\Alex Pasion\Downloads\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.xml
+C:\Users\Alex Pasion\Downloads\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.pdb
+C:\Users\lab609\Documents\Liquiran\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.exe
+C:\Users\lab609\Documents\Liquiran\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.pdb
+C:\Users\lab609\Documents\Liquiran\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.xml
+C:\Users\lab609\Documents\Liquiran\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.AssemblyReference.cache
+C:\Users\lab609\Documents\Liquiran\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.Form1.resources
+C:\Users\lab609\Documents\Liquiran\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.Resources.resources
+C:\Users\lab609\Documents\Liquiran\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.GenerateResource.cache
+C:\Users\lab609\Documents\Liquiran\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.CoreCompileInputs.cache
+C:\Users\lab609\Documents\Liquiran\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.exe
+C:\Users\lab609\Documents\Liquiran\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.xml
+C:\Users\lab609\Documents\Liquiran\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.pdb
+D:\PD\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.exe
+D:\PD\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.pdb
+D:\PD\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.xml
+D:\PD\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.AssemblyReference.cache
+D:\PD\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.Form1.resources
+D:\PD\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.Resources.resources
+D:\PD\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.GenerateResource.cache
+D:\PD\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.CoreCompileInputs.cache
+D:\PD\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.exe
+D:\PD\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.xml
+D:\PD\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.pdb
+D:\PD\New RDV\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.exe
+D:\PD\New RDV\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.pdb
+D:\PD\New RDV\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.xml
+D:\PD\New RDV\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.AssemblyReference.cache
+D:\PD\New RDV\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.Form1.resources
+D:\PD\New RDV\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.Resources.resources
+D:\PD\New RDV\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.GenerateResource.cache
+D:\PD\New RDV\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.CoreCompileInputs.cache
+D:\PD\New RDV\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.exe
+D:\PD\New RDV\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.xml
+D:\PD\New RDV\Remote Desktop Viewer Over LAN\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.pdb
+D:\PD\ImageSenderClient NEW - Liquiran\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.exe
+D:\PD\ImageSenderClient NEW - Liquiran\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.pdb
+D:\PD\ImageSenderClient NEW - Liquiran\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.xml
+D:\PD\ImageSenderClient NEW - Liquiran\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.AssemblyReference.cache
+D:\PD\ImageSenderClient NEW - Liquiran\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.Form1.resources
+D:\PD\ImageSenderClient NEW - Liquiran\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.Resources.resources
+D:\PD\ImageSenderClient NEW - Liquiran\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.GenerateResource.cache
+D:\PD\ImageSenderClient NEW - Liquiran\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.CoreCompileInputs.cache
+D:\PD\ImageSenderClient NEW - Liquiran\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.exe
+D:\PD\ImageSenderClient NEW - Liquiran\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.xml
+D:\PD\ImageSenderClient NEW - Liquiran\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.pdb
+C:\Users\asdf\Desktop\alcantara\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.exe
+C:\Users\asdf\Desktop\alcantara\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.pdb
+C:\Users\asdf\Desktop\alcantara\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.xml
+C:\Users\asdf\Desktop\alcantara\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.AssemblyReference.cache
+C:\Users\asdf\Desktop\alcantara\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.Form1.resources
+C:\Users\asdf\Desktop\alcantara\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.Resources.resources
+C:\Users\asdf\Desktop\alcantara\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.GenerateResource.cache
+C:\Users\asdf\Desktop\alcantara\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.CoreCompileInputs.cache
+C:\Users\asdf\Desktop\alcantara\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.exe
+C:\Users\asdf\Desktop\alcantara\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.xml
+C:\Users\asdf\Desktop\alcantara\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.pdb
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.exe
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.pdb
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.xml
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.AssemblyReference.cache
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.Form1.resources
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.Resources.resources
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.GenerateResource.cache
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.CoreCompileInputs.cache
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.exe
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.xml
+C:\Users\complab1\Documents\ALCANTARA\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.pdb
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.exe
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.pdb
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\bin\Debug\ImageSenderClient.xml
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.AssemblyReference.cache
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.Form1.resources
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.Resources.resources
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.GenerateResource.cache
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.vbproj.CoreCompileInputs.cache
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.exe
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.xml
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.pdb
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.BlackScreen.resources
+C:\Users\asdf\Desktop\PD FP\alcantara monitoring task v1\alcantara monitoring task v1\ImageSenderClient NEW - Alcantara\ImageSenderClient\ImageSenderClient\obj\Debug\ImageSenderClient.TeacherBroadcast.resources

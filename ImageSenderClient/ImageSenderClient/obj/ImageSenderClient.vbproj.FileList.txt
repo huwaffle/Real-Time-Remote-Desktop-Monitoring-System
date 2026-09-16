@@ -1,0 +1,10 @@
+bin\Debug\ImageSenderClient.exe
+bin\Debug\ImageSenderClient.pdb
+bin\Debug\ImageSenderClient.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ImageSenderClient.Form1.resources
+obj\Debug\ImageSenderClient.Resources.resources
+obj\Debug\ImageSenderClient.vbproj.GenerateResource.Cache
+obj\Debug\ImageSenderClient.exe
+obj\Debug\ImageSenderClient.xml
+obj\Debug\ImageSenderClient.pdb
